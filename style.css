@@ -1,0 +1,10 @@
+.header{
+    text-align: center;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 80px;
+}
+
+body{
+    background-image: url('background.jpg');
+}
